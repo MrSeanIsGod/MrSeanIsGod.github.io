@@ -7,7 +7,7 @@
 
 最後再 Commit 它
 
-````cpp
+```cpp
 #include <stdio.h>
 int main()
 {
@@ -20,7 +20,7 @@ int main()
 ```
 long long int 可以放進更多位數的數字
 
-````cpp
+```cpp
 #include <stdio.h>
 int main()
 {
@@ -36,7 +36,7 @@ int main()
 ```
 用暴力搜尋法找最大公因數，但這樣太慢了
 
-````cpp
+```cpp
 #include <stdio.h>
 int main()
 {
@@ -54,7 +54,7 @@ int main()
 ```
 用輾轉相除法找公因數快上許多
 
-````cpp
+```cpp
 #include <stdio.h>
 int main()
 {
